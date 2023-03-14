@@ -1,1 +1,1 @@
-# klipper_setting_for_kingroon_kp3s
+# Klipper settings for Kingroon KP3S
